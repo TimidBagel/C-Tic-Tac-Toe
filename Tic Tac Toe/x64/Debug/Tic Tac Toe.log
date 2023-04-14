@@ -1,0 +1,12 @@
+﻿  Main.c
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(20,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(20,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(20,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(20,10): message : this argument is used as a buffer size
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(25,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(25,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(25,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(25,11): message : this argument is used as a buffer size
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(32,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\Main.c(68): warning C4716: 'startGame': must return a value
+  Tic Tac Toe.vcxproj -> C:\Users\IBroomell\Documents\GitHub\Tic-Tac-Toe-in-C\Tic Tac Toe\x64\Debug\Tic Tac Toe.exe
